@@ -1,4 +1,4 @@
-# 🐬Uvod u pandpc i markdown🐬
+# 🐬Uvod u Pandcc i Markdown🐬
 Ova dokumentacija služi u svrhu primjene pandoca za konverziju dadoteka odnosno markdowna za izradu tehničke dokumentacije.
 
 1. 🐍🐠[Uvod u Pandoc](docs/02-pandoc-primjeri-konverzije.md)
